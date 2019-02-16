@@ -19,7 +19,8 @@ class Counter extends Component {
             .then((res) => {
                 return res.json();
             }).then((data) => {
-                let response = data.articles[0].publishedAt
+                console.log(data.articles)
+                let response = data.articles[19].publishedAt
                 // let source = response.articles
                 response = new Date(response).toLocaleDateString()
                 this.setState({
