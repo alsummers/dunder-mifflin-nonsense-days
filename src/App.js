@@ -1,25 +1,36 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Header from './components/Header'
+import Counter from './components/Counter'
+import logo from './dunder-mifflin-logo-5E325D4D51-seeklogo.com.png'
 import './App.css';
 
 class App extends Component {
+
+  constructor(props){
+    super(props);
+    this.state = {
+      date: new Date().toString()
+    }
+  }
+  componentWillMount(){
+    clearInterval(this.continueTime)
+  }
+  componentDidMount(){
+    this.continueTime = setInterval(() =>
+    this.dateTick(), 1000
+    )
+  }
+  dateTick(){
+    let newTime = new Date().toString()
+    this.setState({
+      date: newTime
+    })
+  }
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <Header logo={logo}/>
+      <Counter />
       </div>
     );
   }

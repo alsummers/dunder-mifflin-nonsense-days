@@ -1,0 +1,22 @@
+.line {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+.days {
+    font-size: 10rem;
+    width: 30%;
+    border: 4px solid white;
+    float: left;
+}
+.daysText {
+    margin-left: 15%;
+}
+.writing{
+    padding: 2rem;
+    margin: 0 auto;
+    font-size: 10rem;
+    width: 40%;
+    color: white;
+    font-family: 'Gochi Hand', cursive;
+}
