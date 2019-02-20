@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/dunder-mifflin-nonsense-days/static/js/runtime~main.301e2d8c.js"
   },
   {
-    "revision": "53d2871ef99595c4ba1e",
-    "url": "/dunder-mifflin-nonsense-days/static/js/main.53d2871e.chunk.js"
+    "revision": "7fad8be48002ce01338b",
+    "url": "/dunder-mifflin-nonsense-days/static/js/main.7fad8be4.chunk.js"
   },
   {
     "revision": "d0be77769111ce3a3224",
     "url": "/dunder-mifflin-nonsense-days/static/js/2.d0be7776.chunk.js"
   },
   {
-    "revision": "53d2871ef99595c4ba1e",
-    "url": "/dunder-mifflin-nonsense-days/static/css/main.2ef7a6e8.chunk.css"
+    "revision": "7fad8be48002ce01338b",
+    "url": "/dunder-mifflin-nonsense-days/static/css/main.a94c02bd.chunk.css"
   },
   {
-    "revision": "c487eabc6d684c1e5e24b841fcc066fa",
+    "revision": "2922e783e6c1d84195aefc69fd7eff99",
     "url": "/dunder-mifflin-nonsense-days/index.html"
   }
 ];
