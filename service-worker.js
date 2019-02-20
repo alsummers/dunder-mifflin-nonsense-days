@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dunder-mifflin-nonsense-days/precache-manifest.d372edce10091a4d136aebbebb23c8a3.js"
+  "/dunder-mifflin-nonsense-days/precache-manifest.ea506f21424c474f72f2fb8e84c2c995.js"
 );
 
 workbox.clientsClaim();

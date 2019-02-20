@@ -1,14 +1,14 @@
 {
   "main.css": "/dunder-mifflin-nonsense-days/static/css/main.2ef7a6e8.chunk.css",
-  "main.js": "/dunder-mifflin-nonsense-days/static/js/main.ba56f3db.chunk.js",
-  "main.js.map": "/dunder-mifflin-nonsense-days/static/js/main.ba56f3db.chunk.js.map",
+  "main.js": "/dunder-mifflin-nonsense-days/static/js/main.5c178c15.chunk.js",
+  "main.js.map": "/dunder-mifflin-nonsense-days/static/js/main.5c178c15.chunk.js.map",
   "runtime~main.js": "/dunder-mifflin-nonsense-days/static/js/runtime~main.301e2d8c.js",
   "runtime~main.js.map": "/dunder-mifflin-nonsense-days/static/js/runtime~main.301e2d8c.js.map",
   "static/js/2.d0be7776.chunk.js": "/dunder-mifflin-nonsense-days/static/js/2.d0be7776.chunk.js",
   "static/js/2.d0be7776.chunk.js.map": "/dunder-mifflin-nonsense-days/static/js/2.d0be7776.chunk.js.map",
   "index.html": "/dunder-mifflin-nonsense-days/index.html",
-  "precache-manifest.d372edce10091a4d136aebbebb23c8a3.js": "/dunder-mifflin-nonsense-days/precache-manifest.d372edce10091a4d136aebbebb23c8a3.js",
+  "precache-manifest.ea506f21424c474f72f2fb8e84c2c995.js": "/dunder-mifflin-nonsense-days/precache-manifest.ea506f21424c474f72f2fb8e84c2c995.js",
   "service-worker.js": "/dunder-mifflin-nonsense-days/service-worker.js",
   "static/css/main.2ef7a6e8.chunk.css.map": "/dunder-mifflin-nonsense-days/static/css/main.2ef7a6e8.chunk.css.map",
-  "static/media/dunder_mifflin_logo_png_425652.png": "/dunder-mifflin-nonsense-days/static/media/dunder_mifflin_logo_png_425652.63c4c789.png"
+  "static/media/dunder_mifflin.png": "/dunder-mifflin-nonsense-days/static/media/dunder_mifflin.3fe9b4bf.png"
 }
