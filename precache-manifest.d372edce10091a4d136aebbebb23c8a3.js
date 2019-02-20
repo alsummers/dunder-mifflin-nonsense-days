@@ -1,26 +1,26 @@
 self.__precacheManifest = [
   {
-    "revision": "0c1fb45fb2570df93ba09a3d6034370b",
-    "url": "/dunder-mifflin-nonsense-days/static/media/dunder-mifflin-logo-5E325D4D51-seeklogo.com.0c1fb45f.png"
+    "revision": "63c4c7891aab063a3ffc4ed54dc9d0df",
+    "url": "/dunder-mifflin-nonsense-days/static/media/dunder_mifflin_logo_png_425652.63c4c789.png"
   },
   {
     "revision": "301e2d8c4c7c59a33f50",
     "url": "/dunder-mifflin-nonsense-days/static/js/runtime~main.301e2d8c.js"
   },
   {
-    "revision": "f2c8e9949e248ee570d1",
-    "url": "/dunder-mifflin-nonsense-days/static/js/main.f2c8e994.chunk.js"
+    "revision": "ba56f3db3f511ec26f84",
+    "url": "/dunder-mifflin-nonsense-days/static/js/main.ba56f3db.chunk.js"
   },
   {
     "revision": "d0be77769111ce3a3224",
     "url": "/dunder-mifflin-nonsense-days/static/js/2.d0be7776.chunk.js"
   },
   {
-    "revision": "f2c8e9949e248ee570d1",
+    "revision": "ba56f3db3f511ec26f84",
     "url": "/dunder-mifflin-nonsense-days/static/css/main.2ef7a6e8.chunk.css"
   },
   {
-    "revision": "52645413dd4a644edf09cfd8f3ed3ec1",
+    "revision": "000413058fdeb4017bfbef62339f1c76",
     "url": "/dunder-mifflin-nonsense-days/index.html"
   }
 ];
